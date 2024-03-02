@@ -12,7 +12,7 @@ brew install python
 ## Run
 
 ```
-python hello.py
+python3 hello.py
 ```
 
 ## Documentation
